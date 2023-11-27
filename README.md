@@ -1,5 +1,5 @@
 # Thunes. Case Study
-![Thunes](Thuneslogo.png)
+![Thunes](ThunesLogo.png)
 ## Overview and Origin
 **Thunes is a cross-border payments company founded in 2016 by Eric Barbier.** 
 ![Eric Barbier photo](Eric_Barbier.png)
